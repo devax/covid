@@ -1,5 +1,5 @@
 ## Spät- und Langzeitfolgen
-- [Viele Virenv erursachen Langzeitfolgen – ähnlich wie "LongCovid"](https://www.deutschlandfunknova.de/beitrag/infektionskrankheiten-spaetfolgen-bei-vielen-viren-moeglich), Dlf Nova (deutschlandfunknova.de, 22.01.2020)
+- [Viele Viren verursachen Langzeitfolgen – ähnlich wie "LongCovid"](https://www.deutschlandfunknova.de/beitrag/infektionskrankheiten-spaetfolgen-bei-vielen-viren-moeglich), Dlf Nova (deutschlandfunknova.de, 22.01.2020)
 Die Langzeitfolgen treten oft erst Jahre später auf. Auslöser kann eine Erkältung oder eine ausgewachsene Influenza sein, erklärt Wissenschaftsjournalist Michael Lange. Mögliche Langzeitfolgen:
   - Depressionen
   - Herzkrankheiten
@@ -24,6 +24,10 @@ Die Langzeitfolgen treten oft erst Jahre später auf. Auslöser kann eine Erkäl
 ## Pflegepersonal
 - [Ungeimpfte sind auf der Intensivstation oft sehr fordernd](https://www.tagesanzeiger.ch/ungeimpfte-sind-auf-der-intensivstation-oft-sehr-fordernd-215441582429) (TA, 07.12.2021, bezahlpflichtig)
 - [Pflegejule auf Twitter](https://twitter.com/JuleTheres)
+
+## Kinderimpfung
+- [Kinderimpfung in Israel](https://www.3sat.de/wissen/nano/211213-kinderimpfen-nano-100.html) (3sat, 13.12.2021)
+- [Impfstoff für Kinder zwischen fünf und elf - Millionen Kinder in den USA gegen Corona geimpft](https://www.stuttgarter-nachrichten.de/inhalt.impfstoff-fuer-kinder-zwischen-fuenf-und-elf-millionen-kinder-in-den-usa-gegen-corona-geimpft.bb629f94-647b-404b-b340-7e294e702460.html) (StN.de, 10.12.2021)
 
 ## Comments
 - [Die Ungeimpften stecken in einem grossen moralischen Dilemma](https://www.tagesanzeiger.ch/die-ungeimpften-stecken-in-einem-moralischen-dilemma-296378736567) (TA, 07.12.2021)
