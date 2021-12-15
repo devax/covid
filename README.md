@@ -28,6 +28,8 @@ Die Langzeitfolgen treten oft erst Jahre später auf. Auslöser kann eine Erkäl
 ## Impfungen allgemein
 - [What is the Novavax vaccine, and how does it work?](https://qz.com/1950365/what-is-the-novavax-vaccine-and-how-does-it-work/) (qz.com, 28.12.2020 / Updated 14.06.2021)
 - [Schweiz, USA, Chile - Wie unterscheidet sich die Sterberate zwischen Geimpften und Ungeimpften?](https://www.20min.ch/story/wie-unterscheidet-sich-die-sterberate-zwischen-geimpften-und-ungeimpften-207415288848) (20min.ch, 14.12.2021)
+- [Novavax vaccine over 90% effective in protecting against COVID-19 infection, study shows](https://eu.usatoday.com/story/news/health/2021/06/14/novavax-vaccine-covid-infection-effectiveness-study/7680305002/) (USA Today, 14.06.2021)
+  - Claims that Novavax is not egg-based
 
 ## Kinderimpfung
 - [Kinderimpfung in Israel](https://www.3sat.de/wissen/nano/211213-kinderimpfen-nano-100.html) (3sat, 13.12.2021)
